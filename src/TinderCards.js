@@ -7,6 +7,7 @@ function TinderCards() {
     {
       name: "Elon Musk",
       url: "https://cdn.siasat.com/wp-content/uploads/2020/09/Elon-Musk.jpg",
+      // url: "https://media.gettyimages.com/id/1288827929/photo/tesla-head-elon-musk-arrives-to-have-a-look-at-the-construction-site-of-the-new-tesla.jpg?s=612x612&w=gi&k=20&c=4Vp61CHC8168TfPU1GHUThlsherokm-iPEPXxSXPnxU=",
     },
     {
       name: "Jeff Bezos",
